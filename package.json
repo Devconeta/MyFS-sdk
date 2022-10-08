@@ -1,7 +1,7 @@
 {
-  "name": "typescript-npm-package-template",
+  "name": "myweb3fs",
   "version": "0.0.0-development",
-  "description": "A template for creating npm packages using TypeScript and VSCode",
+  "description": "Custom SDK created for the ETHBogotá Hackathon project myweb3fs",
   "main": "./lib/index.js",
   "files": [
     "lib/**/*"
@@ -118,5 +118,8 @@
       "@semantic-release/npm",
       "@semantic-release/github"
     ]
+  },
+  "dependencies": {
+    "web3.storage": "^4.4.0"
   }
 }
