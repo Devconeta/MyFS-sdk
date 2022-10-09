@@ -32,7 +32,7 @@
     "template",
     "typescript",
     "vscode",
-    "jest",
+    "ipfs",
     "husky",
     "commitizen",
     "semantic-release",
